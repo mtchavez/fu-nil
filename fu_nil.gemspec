@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
-  s.name             = 'fu-nil'
-  s.version          = '0.0.2'
+  s.name             = 'fu_nil'
+  s.version          = '0.0.3'
   s.date             = '2012-06-22'
   s.summary          = 'FU NIL'
   s.description      = 'Allows the ruby nil to be used in math operators. Allows the amazing division of zero.'
